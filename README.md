@@ -9,3 +9,8 @@ Urmeaza sa incep sa scriu cod arduino, iar la aplicatia OpenGL voi lucra in ulti
 17 Decembrie 2020:
 Am implementat toata logica in arduino si am verificat ca toate rotirile functioneza corect cu ajutorul Serial monitor.
 Urmeaza sa implementez aplicatia OpenGL pentru afisarea cubului rubic.
+
+
+6 Ianuarie 2021:
+Am implementat toata logica OpenGL si am verificat ca merge cu valori hardcodate.
+NU AM REUSIT SA STABILESC CONEXIUNEA INTRE ARDUINO SI C++; ASADAR, PROIECTUL NU ESTE FUNCTIONAL.
