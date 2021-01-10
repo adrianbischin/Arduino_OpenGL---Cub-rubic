@@ -17,3 +17,6 @@ NU AM REUSIT SA STABILESC CONEXIUNEA INTRE ARDUINO SI C++; ASADAR, PROIECTUL NU 
 
 10 Ianuarie 2021:
 Am reusit sa fac conexiunea dintre arduino si OpenGL sa mearga corect. PROIECT COMPLET.
+
+
+LINK VIDEO PREZENTARE: https://www.youtube.com/watch?v=Gv8MWF4F47o
