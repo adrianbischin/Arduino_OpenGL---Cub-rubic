@@ -14,3 +14,6 @@ Urmeaza sa implementez aplicatia OpenGL pentru afisarea cubului rubic.
 6 Ianuarie 2021:
 Am implementat toata logica OpenGL si am verificat ca merge cu valori hardcodate.
 NU AM REUSIT SA STABILESC CONEXIUNEA INTRE ARDUINO SI C++; ASADAR, PROIECTUL NU ESTE FUNCTIONAL.
+
+10 Ianuarie 2021:
+Am reusit sa fac conexiunea dintre arduino si OpenGL sa mearga corect. PROIECT COMPLET.
